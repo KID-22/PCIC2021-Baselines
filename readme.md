@@ -1,4 +1,4 @@
-### PCIC 2021: Causal Inference and Recommendation
+### PCIC 2021: Causal Inference and Recommendation([link](https://competition.huaweicloud.com/information/1000041488/introduction))
 
 Here, we will give some baselines  to inspire you solving this problem by using some novel and causal algorithms.
 
