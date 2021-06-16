@@ -8,7 +8,7 @@ If you have any questions, please feel free to contact by issues or sunhaodai@gm
 
 
 
-You can see more detailed information about these models from paper as follows:  
+You can see more detailed information about these models from papers as follows:  
 
 ```
 [1] Koren et al. 2009. Matrix factorization techniques for recommender systems. In Computer.
