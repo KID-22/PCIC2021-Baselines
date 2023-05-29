@@ -20,3 +20,14 @@ All three models were initially used in the rating prediction task. Here, the ta
 
 **Note that we haven't used the rating.txt, and how to use this dataset is left to you participants to explore.**
 
+### Citation
+
+If you reference or use our methodology, code or results in your work, please consider citing:
+```
+@article{lyu2022semi,
+  title={A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems},
+  author={Lyu, Yan and Dai, Sunhao and Wu, Peng and Dai, Quanyu and Deng, Yuhao and Hu, Wenjie and Dong, Zhenhua and Xu, Jun and Zhu, Shengyu and Zhou, Xiao-Hua},
+  journal={arXiv preprint arXiv:2202.11351},
+  year={2022}
+}
+```
