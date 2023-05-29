@@ -22,7 +22,7 @@ All three models were initially used in the rating prediction task. Here, the ta
 
 ### Citation
 
-If you reference or use our methodology, code or results in your work, please consider citing:
+If you reference or use our data, code or results in your work, please consider citing:
 ```
 @article{lyu2022semi,
   title={A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems},
